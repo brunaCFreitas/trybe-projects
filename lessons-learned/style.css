@@ -1,0 +1,239 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(253, 251, 251);
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 30px;
+  font-size: 1.3em;
+
+}
+
+#cabecalho {
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  width: 100%;
+  padding: 20px;
+  position: fixed;
+  top: 0;
+}
+
+h3 {
+  margin: 10px;
+}
+
+#titulo {
+  text-align: center;
+  font-size: 2em;
+}
+
+.lista_links .link_externo {
+  display: inline-block;
+  margin: 15px;
+  padding: 10px;
+}
+
+li a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+main {
+  padding: 20px 50px;
+}
+
+#apresentacao {
+  text-align: center;
+  padding-top: 200px;
+  margin: 20px;
+}
+
+#minha_foto {
+  padding: 50px;
+}
+
+#licoes {
+  padding: 30px;
+  text-align: center;
+}
+
+.lista_licoes {
+  display: inline-block;
+  margin: auto;
+  padding: 30px;
+  text-align: left;
+}
+
+#textos {
+  padding-bottom: 50px;
+}
+
+.text {
+  display: inline-block;
+  width: 45%;
+  text-align: justify;
+  text-indent: 30px;
+  padding: 20px;
+}
+
+.lado-esquerdo {
+  float: left;
+  margin-bottom: 50px;
+}
+
+.lado-direito {
+  float: right;
+  vertical-align: 620%;
+  margin-bottom: 200px;
+}
+
+#table {
+  clear: both;
+}
+
+table,
+caption,
+td,
+th {
+  width: auto;
+  margin: auto;
+  border: 1px solid black;
+  text-align: left;
+  padding: 5px;
+  background-color: rgb(255, 255, 255);
+}
+
+caption {
+  text-align: center;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+}
+
+footer {
+  text-align: center;
+  padding: 30px;
+  margin: 10px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: rgb(253, 251, 251);
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 30px;
+  font-size: 1.3em;
+
+}
+
+#cabecalho {
+  background-color: black;
+  color: rgb(255, 255, 255);
+  width: 100%;
+  padding: 20px;
+  position: fixed;
+  top: 0;
+}
+
+h3 {
+  margin: 10px;
+}
+
+#titulo {
+  text-align: center;
+  font-size: 2em;
+}
+
+.lista_links .link_externo {
+  display: inline-block;
+  margin: 15px;
+  padding: 10px;
+}
+
+li a {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+main {
+  padding: 20px 50px;
+}
+
+#apresentacao {
+  text-align: center;
+  padding-top: 200px;
+  margin: 20px;
+}
+
+#minha_foto {
+  padding: 50px;
+}
+
+#licoes {
+  padding: 30px;
+  text-align: center;
+}
+
+.lista_licoes {
+  display: inline-block;
+  margin: auto;
+  padding: 30px;
+  text-align: left;
+}
+
+#textos {
+  padding-bottom: 50px;
+}
+
+.text {
+  display: inline-block;
+  width: 45%;
+  text-align: justify;
+  text-indent: 30px;
+  padding: 20px;
+}
+
+.lado-esquerdo {
+  float: left;
+  margin-bottom: 50px;
+}
+
+.lado-direito {
+  float: right;
+  vertical-align: 620%;
+  margin-bottom: 200px;
+}
+
+#table {
+  clear: both;
+}
+
+table,
+caption,
+td,
+th {
+  width: auto;
+  margin: auto;
+  border: 1px solid black;
+  text-align: left;
+  padding: 5px;
+  background-color: rgb(255, 255, 255);
+  ;
+}
+
+caption {
+  text-align: center;
+  background-color: black;
+  color: rgb(255, 255, 255);
+  ;
+}
+
+footer {
+  text-align: center;
+  padding: 30px;
+  margin: 10px;
+}

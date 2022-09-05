@@ -4,6 +4,7 @@ Neste projeto bônus podemos colocar em prática nossos conhecimentos em DOM.
 
 - Veja o meu trabalho pronto: 
 
+[recording-2022-09-05-16-49-20.webm](https://user-images.githubusercontent.com/80068419/188507546-f529a6cb-b642-4b7f-8c79-d5817da58dec.webm)
 
  Requisitos Obrigatórios
 

@@ -6,4 +6,4 @@ Neste repositório você irá encontrar todos os meus projetos realizados na [Tr
 - [x] - Projeto [Playground Functions](https://github.com/brunaCFreitas/trybe-projects/tree/main/playground-functions)
 - [x] - Projeto [Pixels Art](https://github.com/brunaCFreitas/trybe-projects/tree/main/pixels-art)
 - [x] - Projeto [To Do List](https://github.com/brunaCFreitas/trybe-projects/tree/main/todo-list)
-- [x] - Projeto [Meme Generator(https://github.com/brunaCFreitas/trybe-projects/tree/main/meme-generator)
+- [x] - Projeto [Meme Generator](https://github.com/brunaCFreitas/trybe-projects/tree/main/meme-generator)

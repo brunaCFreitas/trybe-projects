@@ -3,6 +3,7 @@
 Neste projetos aplicamos conceitos básicos de HTML e CSS.
 
 Abaixo o exemplo do meu Projeto:
+
 [recording-2022-09-05-15-52-16.webm](https://user-images.githubusercontent.com/80068419/188502511-49794c34-d6d1-40b6-9717-36e76358ca91.webm)
 
 # Requisitos do projeto

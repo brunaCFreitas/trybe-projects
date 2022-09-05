@@ -1,0 +1,71 @@
+body {
+  margin: 20px;
+}
+
+#meme-image-container {
+  border: 1px solid black;
+  width: 400px;
+  height: 400px;
+  margin-top: 20px;
+  background-color: white;
+}
+
+#meme-image {
+  width: 400px;
+  height: 400px;
+  position: absolute;
+  z-index: 0;
+}
+
+#meme-text {
+  z-index: 1;
+  position: absolute;
+  display: inline;
+  color: white;
+  font-size: 30px;
+  text-shadow: 5px 5px 5px black;
+  word-wrap: break-word;
+  max-width: 490px;
+  max-height: 490px;
+}
+
+#meme-image-container.fire {
+  border: 3px dashed red;
+}
+
+#meme-image-container.water {
+  border: 5px double blue;
+}
+
+#meme-image-container.earth {
+  border: 6px groove green;
+}
+
+button {
+  margin-top: 20px;
+  margin-right: 10px;
+  width: 80px;
+  color: white;
+  border: none;
+  padding: 10px;
+  font-weight: 700;
+}
+
+#fire {
+  background-color: red;
+}
+
+#water {
+  background-color: blue;
+}
+
+#earth {
+  background-color: green;
+}
+
+.miniMeme {
+  margin: 20px;
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+}

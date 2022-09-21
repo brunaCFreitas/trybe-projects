@@ -1,0 +1,163 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  background-color: rgb(50, 167, 145);
+  color: white;
+  width: auto;
+  padding: 5px;
+  margin: -8px;
+  margin-bottom: 10px;
+}
+
+.trybewarts-header-logo {
+  width: 40px;
+}
+
+.trybewarts-login {
+  display: flex;
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+}
+
+#password {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.main {
+  margin: 20px 50px;
+  display: flex;
+
+}
+
+#evaluation-form , #form-data {
+  display: flex;
+  width: 675px;
+  flex-direction: column;
+}
+
+
+input {
+  margin: 0 0 10px;
+  padding: 8px;
+}
+
+button {
+  height: 35px;
+}
+
+.input-large {
+  width: 45%;
+}
+
+#house {
+  padding: 8px;
+  width: 48%;
+}
+
+#container-image-logo {
+  margin-left: 90px;
+  display: flex;
+  justify-content: flex-end;
+}
+
+#container-family-techs {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+#container-family {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  line-height: 25px;
+}
+
+#label-family {
+  margin-bottom: 10px;
+}
+
+#container-techs {
+  line-height: 25px;
+  display: flex;
+  flex-direction: column;
+}
+
+#techs {
+  height: 70px;
+  margin-top: 10px;
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+
+}
+
+#techs div {
+  width: 25%;
+  flex-basis: 25%;
+  align-self: center;
+}
+
+
+#container-rating {
+  margin-top: 10px;
+  display: flex;
+  flex-direction: column;
+}
+
+#rate {
+  margin-top: 10px;
+  display: flex;
+}
+
+#rate div {
+  margin-right: 30px;
+}
+
+.textarea {
+  display: block;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+
+#textarea {
+  width: 100%;
+  resize: none;
+}
+
+#container-terms-and-conditions {
+  margin-top: 15px;
+}
+
+#agreement {
+  margin-right: 10px;
+  margin-bottom: 30px;
+}
+
+footer {
+  text-align: center;
+  font-style: italic;
+}
+
+#counter-label {
+  text-align: right;
+  font-size: 0.9em;
+}
+
+#form-data {
+  display: none;
+}
+
+.formDataLine {
+  margin-top: 20px;
+}
+
+fieldset {
+  padding-top: 20px;
+  padding-right: 20px;
+}

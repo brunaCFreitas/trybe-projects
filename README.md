@@ -30,7 +30,6 @@ Neste repositório você irá encontrar todos os meus projetos realizados na [Tr
 
 - [x] - Projeto - [JavaScript ES6 Testes Unitários](https://github.com/brunaCFreitas/trybe-projects/tree/main/fundamentos/testes-unitarios) 
 
-
 ### Sessão 8 - JavaScript ES6 - Higer Order Functions
 
-- [x] - Projeto - [Zoo Functions]() 
+- [x] - Projeto - [Zoo Functions]()

@@ -10,7 +10,7 @@ Os assuntos abordados foram:
 - Posicionamento de elementos com CSS;
 - Uso de inputs de arquivo e suas funções.
 
-### Neste vídeo abaixo tem um pouquino do meu trabalho pronto:
+### Neste vídeo abaixo tem meu trabalho pronto, veja:
 
 [recording-2022-09-05-17-11-52.webm](https://user-images.githubusercontent.com/80068419/188508704-dd151c2d-646c-42ad-a34a-039e21e07125.webm)
 

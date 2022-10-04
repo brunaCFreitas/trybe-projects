@@ -2,7 +2,7 @@
 
 ## Descrição do Projeto
 
-Neste projeto desenvolvemos habilidades iniciais em `HTML` e `CSS`, e a ideia principal era criar um site **simples** com a presnça de alguns elementos básicos:
+Neste projeto desenvolvemos habilidades iniciais em `HTML` e `CSS`, e a ideia principal era criar um site **simples** com a presença de alguns elementos básicos:
 
 - Listas (ordenadas e não ordenadas);
 - Imagens;

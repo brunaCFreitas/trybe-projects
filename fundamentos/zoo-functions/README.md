@@ -9,3 +9,7 @@ Neste último projeto do módulo de **Fundamentos**, foi possível colocar em pr
 O projeto traz como proposta o funcionamento de um Zoológico e toda a sua integração, o cadastro de funcionários e seus cargos, seus animais e suas características como: espécie, idade, gênero e quantidade, além do horário de funcionamento e o preço de entrada para cada faixa etária.
 
 A proposta foi manipular Objetos e Arrays utilizando os métodos e as HOFs aprendidas nesta sessão e com suas aplicações filtrar as informações solicitadas em cada requisito, como bônus, tivemos que implementar testes que deveriam cobrir o código em sua totalidade, assegurando a qualidade e eficiência do mesmo.
+
+#### Acompanhe o meu desempenho:
+
+![Captura de tela de 2022-10-04 17-43-22](https://user-images.githubusercontent.com/80068419/193923697-db0b562a-5da9-409f-b71c-002536c4b329.png)

@@ -2,15 +2,11 @@
 
 [<img align="left" height="94px" width="94px" alt="Warpnet" src="https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png"/>](https://www.betrybe.com/)
 
-**Trybe** \
-[**Trybe**](https://www.betrybe.com/) • Full-time - 2022 / 2023\
-Estudante de Desenvolvimento Web \
-Linguagens & Tecnologias: `HTML`, `CSS`,`JavaScript`\
-<br/>
 
 Neste repositório você irá encontrar todos os meus projetos realizados na [Trybe](https://www.betrybe.com/) durante a minha formação como `Desenvolvedora Web`. 
 
-- Você pode conferir minha trilha de aprendizado [Aqui!](https://github.com/brunaCFreitas/trybe-exercices/).
+
+Você pode conferir minha trilha de aprendizado [Aqui!](https://github.com/brunaCFreitas/trybe-exercices/).
 
 ## Projetos do Módulo de Fundamentos
 

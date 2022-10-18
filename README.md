@@ -37,3 +37,10 @@ Você pode conferir minha trilha de aprendizado [Aqui!](https://github.com/bruna
 ### Sessão 8 - JavaScript ES6 - Higer Order Functions
 
 - [x] - Projeto - [Zoo Functions](https://github.com/brunaCFreitas/trybe-projects/tree/main/fundamentos/zoo-functions)
+
+
+## Projetos do Módulo de Frontend
+
+### Sessão 1: Javascript e Testes Assíncronos - Assincronicidade & Callbacks
+
+- [x] - Projeto - [Carrinho de Compras]()

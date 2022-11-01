@@ -1,0 +1,53 @@
+.listPlanets {
+  align-items: center;
+  display: flex;
+  height: 305.4px;
+  justify-content: center;
+  padding: 50px 10px;
+  width: 1284px;
+}
+
+.listPlanets p {
+  text-align: center;
+}
+
+.Mercúrio img {
+  height: 31px;
+  padding: 0 20px;
+  width: 41px;
+}
+
+.Vênus img {
+  height: 76px;
+  width: 102px;
+}
+
+.Terra img {
+  height: 79px;
+  width: 106px;
+}
+
+.Marte img {
+  height: 50px;
+  width: 66px;
+}
+
+.Júpiter img {
+  height: 204px;
+  width: 272px;
+}
+
+.Saturno img {
+  height: 210.9px;
+  width: 282.41px;
+}
+
+.Urano img {
+  height: 109px;
+  width: 144px;
+}
+
+.Netuno img {
+  height: 107px;
+  width: 144px;
+}

@@ -1,0 +1,30 @@
+.content-missions {
+  justify-content: center;
+}
+
+h2 {
+  margin-bottom: 50px;
+}
+
+.listMissions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+  width: 70%;
+}
+
+.mission {
+  background-color: rgba(255, 255, 255, 0.103);
+  border-radius: 15px;
+  box-shadow: 2px 2px 5px  rgba(255, 255, 255, 0.178);
+  margin: 20px;
+  text-align: center;
+  width: 40%;
+}
+
+.title {
+  background-color: rgba(255, 255, 255, 0.11);
+  font-size: 1em;
+  padding: 10px;
+}

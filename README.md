@@ -47,4 +47,4 @@ Você pode conferir minha trilha de aprendizado [Aqui!](https://github.com/bruna
 
 ### Sessão 2: Introdução ao React
 
-- [x] - Projeto - [SolarSystem] (https://github.com/brunaCFreitas/trybe-projects/tree/main/frontend/solarSystem)
+- [x] - Projeto - [SolarSystem](https://github.com/brunaCFreitas/trybe-projects/tree/main/frontend/solarSystem)

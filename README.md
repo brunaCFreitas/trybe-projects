@@ -48,3 +48,11 @@ Você pode conferir minha trilha de aprendizado [Aqui!](https://github.com/bruna
 ### Sessão 2: Introdução ao React
 
 - [x] - Projeto - [SolarSystem](https://github.com/brunaCFreitas/trybe-projects/tree/main/frontend/solarSystem)
+
+### Sessão 3: Componentes com Estado, Eventos e Formulários com React
+
+- [ ] - Projeto - [Trynfo]()
+
+### Sessão 4: Ciclo de Vida de Componentes e React Router 
+
+- [ ] - Projeto - [TrybeTunes]()

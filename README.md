@@ -44,3 +44,7 @@ Você pode conferir minha trilha de aprendizado [Aqui!](https://github.com/bruna
 ### Sessão 1: Javascript e Testes Assíncronos - Assincronicidade & Callbacks
 
 - [x] - Projeto - [Carrinho de Compras](https://github.com/brunaCFreitas/trybe-projects/tree/main/frontend/carrinho-de-compras)
+
+### Sessão 2: Introdução ao React
+
+- [x] - Projeto - [SolarSystem] (https://github.com/brunaCFreitas/trybe-projects/tree/main/frontend/solarSystem)
